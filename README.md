@@ -1,4 +1,4 @@
-# HeartGuard: Integrating Machine Learning for Heart Disease Identification and Diagnosis Support
+# HeartGuard: ML for Heart Disease Identification and Diagnosis Support
 
 ## Introduction
 Heart disease is a significant cause of mortality, necessitating effective diagnostic tools. This project integrates machine learning research with a public health dataset to identify influential factors and exams for heart disease diagnosis. The anonymized dataset from Cleveland, Hungary, Switzerland, and Long Beach V (1988) is explored to investigate the potential of machine learning models in assisting doctors in patient analysis. This was developed as an Assignment for course CSCI6515 - ML for Big Data.
